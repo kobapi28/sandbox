@@ -3,9 +3,9 @@
 @tailwind utilities;
 
 
-body {
+/* body {
   font-family: Arial, Helvetica, sans-serif;
-}
+} */
 
 @layer utilities {
   .text-balance {
